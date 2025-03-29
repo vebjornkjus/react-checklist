@@ -1,0 +1,17 @@
+/* src/components/ChecklistItem.css */
+.checklist-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+  }
+  
+  .delete-btn {
+    background: #ff6b6b;
+    border: none;
+    color: white;
+    padding: 0.3rem 0.7rem;
+    cursor: pointer;
+    border-radius: 3px;
+  }

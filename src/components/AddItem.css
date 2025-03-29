@@ -1,0 +1,21 @@
+/* src/components/AddItem.css */
+.add-item-form {
+    margin-bottom: 1rem;
+  }
+  
+  .add-item-form input {
+    padding: 0.5rem;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .add-item-form button {
+    padding: 0.5rem 1rem;
+    margin-left: 0.5rem;
+    border: none;
+    background: #4caf50;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+  }
